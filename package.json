@@ -1,7 +1,7 @@
 {
   "name": "gamealert",
   "version": "1.0.0",
-  "description": "movie app for showing trailers",
+  "description": "",
   "main": "public/index.js",
   "license": "MIT",
   "engines": {
@@ -23,7 +23,6 @@
     "css-loader": "^1.0.0",
     "express": "^4.16.3",
     "firebase": "^5.3.0",
-    "live-server": "^1.2.0",
     "node-sass": "^4.9.2",
     "normalize.css": "^8.0.0",
     "react": "^16.4.1",
@@ -41,6 +40,7 @@
     "babel-eslint": "^8.2.6",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "chalk": "^2.4.1",
     "eslint": "^5.1.0",
     "eslint-config-airbnb": "^17.0.0",
     "eslint-plugin-import": "^2.13.0",
